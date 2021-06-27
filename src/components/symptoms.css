@@ -1,0 +1,19 @@
+.imagebox {
+  width: 65%;
+    height:1000%;
+    float: left;
+  }
+  .center{
+    width: 100%;
+    height: 100vh;
+  }
+  
+.textbox {
+    width: 35%;
+    height:100vh;
+    float: right;
+    text-align: center;
+    padding-top: 20px;
+    background-color:grey;
+    color: #fff;
+  }
