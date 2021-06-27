@@ -3,8 +3,10 @@ It gives details about the Covid Hospitals near you and news related to Covid ne
 It solves the problem of finding covid hospitals near you and it also helps in providing latest news and information related to Covid.
 
 # Technologies Used
-React, Nodejs, Bootstrap, HTML, CSS
-
+# Frontend
+React,Bootstrap, HTML, CSS
+# Backend
+News api, Mapbox api, Nodejs.
 # Snapshots of the Project
 
 ![home](https://user-images.githubusercontent.com/69192616/123539708-97deff80-d758-11eb-91c7-4760a1e8211c.PNG)
@@ -12,3 +14,7 @@ React, Nodejs, Bootstrap, HTML, CSS
 ![news](https://user-images.githubusercontent.com/69192616/123539721-a0cfd100-d758-11eb-881f-2488a7748455.PNG)
 ![symptoms](https://user-images.githubusercontent.com/69192616/123539725-a4fbee80-d758-11eb-863d-190bb6ba48f0.PNG)
 ![chatbot](https://user-images.githubusercontent.com/69192616/123539660-79790400-d758-11eb-8bc1-20746ce87b01.PNG)
+
+# How to run this project locally
+
+To run this project locally on your machine first clone this repository, then use command npm install to install the dependencies, then npm start command to run this project on your local server
